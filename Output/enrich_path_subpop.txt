@@ -1,0 +1,145 @@
+x	y	NES	PVAL
+1	GP4-B1	Oxidative Phosphorylation	1.5499178	10
+2	GP4-B1	Pyruvate Metabolism	1.3080992	1.88605664769316
+3	GP4-B1	Drug Metabolism - Cytochrome P450	1.2487261	1.45549741951799
+4	GP4-B1	Drug Metabolism - Other Enzymes	1.2347952	1.92081875395238
+7	GP4-B1	Glutathione Metabolism	1.2027414	1.22914798835786
+8	GP4-B1	Pyrimidine Metabolism	1.1837385	1.56863623584101
+9	GP4-B1	Purine Metabolism	1.1649047	2.39794000867204
+12	GP4-B1	Glyoxylate And Dicarboxylate Metabolism	1.0835754	0.467245621007502
+61	GP4-C1	Oxidative Phosphorylation	1.557889	10
+63	GP4-C1	Pyrimidine Metabolism	1.1794915	1.63827216398241
+65	GP4-C1	Pyruvate Metabolism	1.1767968	1.05551732784983
+66	GP4-C1	Drug Metabolism - Cytochrome P450	1.171993	0.946487056695269
+67	GP4-C1	Drug Metabolism - Other Enzymes	1.1458272	0.913640169325252
+68	GP4-C1	Purine Metabolism	1.1425042	1.72124639904717
+69	GP4-C1	Glutathione Metabolism	1.1288235	0.777283528852417
+71	GP4-C1	Glyoxylate And Dicarboxylate Metabolism	1.1218944	0.637837652642684
+117	GP4-B2	Oxidative Phosphorylation	1.4640908	10
+118	GP4-B2	Pyruvate Metabolism	1.2377079	1.4089353929735
+119	GP4-B2	Pyrimidine Metabolism	1.1799496	1.92081875395238
+120	GP4-B2	Glutathione Metabolism	1.1582942	0.954677021213343
+121	GP4-B2	Drug Metabolism - Other Enzymes	1.1510398	0.913640169325252
+122	GP4-B2	Purine Metabolism	1.1505969	2.04575749056068
+123	GP4-B2	Drug Metabolism - Cytochrome P450	1.1419384	0.686132779630847
+128	GP4-B2	Glyoxylate And Dicarboxylate Metabolism	1.0527086	0.355126890338149
+173	GP4-A2	Oxidative Phosphorylation	1.8206517	10
+174	GP4-A2	Drug Metabolism - Other Enzymes	1.4345322	10
+175	GP4-A2	Drug Metabolism - Cytochrome P450	1.3944474	1.99913054476173
+176	GP4-A2	Pyruvate Metabolism	1.3277962	1.61978875828839
+177	GP4-A2	Glyoxylate And Dicarboxylate Metabolism	1.3231882	1.40719472591841
+178	GP4-A2	Pyrimidine Metabolism	1.3211849	3
+180	GP4-A2	Glutathione Metabolism	1.2541754	1.2518119729938
+181	GP4-A2	Purine Metabolism	1.2461686	2.52287874528034
+229	GP4-A1	Oxidative Phosphorylation	1.6451347	10
+230	GP4-A1	Pyrimidine Metabolism	1.2867476	2.52287874528034
+231	GP4-A1	Pyruvate Metabolism	1.2814648	1.50863830616573
+232	GP4-A1	Drug Metabolism - Other Enzymes	1.2462245	1.55284196865778
+235	GP4-A1	Glutathione Metabolism	1.1875395	1.01322826573376
+236	GP4-A1	Purine Metabolism	1.1815175	1.92081875395238
+237	GP4-A1	Drug Metabolism - Cytochrome P450	1.1525949	0.685698280927828
+241	GP4-A1	Glyoxylate And Dicarboxylate Metabolism	1.0668476	0.415668775632469
+286	GP4-C2	Oxidative Phosphorylation	1.7783465	10
+287	GP4-C2	Drug Metabolism - Other Enzymes	1.2844477	1.56863623584101
+288	GP4-C2	Pyruvate Metabolism	1.2630875	1.2839966563652
+290	GP4-C2	Purine Metabolism	1.2514079	2.69897000433602
+291	GP4-C2	Pyrimidine Metabolism	1.246919	1.88605664769316
+292	GP4-C2	Glutathione Metabolism	1.2151058	1.11918640771921
+293	GP4-C2	Drug Metabolism - Cytochrome P450	1.1673077	0.735182176990464
+295	GP4-C2	Glyoxylate And Dicarboxylate Metabolism	1.1581796	0.66354026615147
+342	SHH-C1	Oxidative Phosphorylation	1.687355	10
+343	SHH-C1	Drug Metabolism - Other Enzymes	1.3687994	3
+344	SHH-C1	Glutathione Metabolism	1.2321471	1.32790214206428
+345	SHH-C1	Drug Metabolism - Cytochrome P450	1.2307433	1.23613750257769
+346	SHH-C1	Purine Metabolism	1.2289739	10
+347	SHH-C1	Glyoxylate And Dicarboxylate Metabolism	1.2136768	0.990530364501263
+348	SHH-C1	Pyrimidine Metabolism	1.1854913	1.48148606012211
+351	SHH-C1	Pyruvate Metabolism	1.1746923	0.875713857479511
+400	SHH-A1	Oxidative Phosphorylation	1.6591333	10
+401	SHH-A1	Glutathione Metabolism	1.2646464	1.50863830616573
+402	SHH-A1	Drug Metabolism - Other Enzymes	1.2585143	1.46852108295774
+403	SHH-A1	Pyruvate Metabolism	1.2449718	1.2919953210694
+404	SHH-A1	Drug Metabolism - Cytochrome P450	1.2276626	1.03621217265444
+405	SHH-A1	Pyrimidine Metabolism	1.2126883	1.74472749489669
+407	SHH-A1	Purine Metabolism	1.158503	1.58502665202918
+412	SHH-A1	Glyoxylate And Dicarboxylate Metabolism	1.0888784	0.490362997223244
+458	SHH-B1	Oxidative Phosphorylation	1.5828719	10
+459	SHH-B1	Glutathione Metabolism	1.2929738	2.04575749056068
+460	SHH-B1	Drug Metabolism - Other Enzymes	1.2742864	2.04575749056068
+461	SHH-B1	Purine Metabolism	1.258499	3
+462	SHH-B1	Pyrimidine Metabolism	1.253636	2.69897000433602
+463	SHH-B1	Drug Metabolism - Cytochrome P450	1.2533023	1.48148606012211
+464	SHH-B1	Pyruvate Metabolism	1.219526	1.22914798835786
+465	SHH-B1	Glyoxylate And Dicarboxylate Metabolism	1.2063035	1.00349537643241
+517	SHH-B2	Oxidative Phosphorylation	1.5100714	10
+518	SHH-B2	Drug Metabolism - Cytochrome P450	1.2083312	0.844223331685889
+519	SHH-B2	Pyruvate Metabolism	1.2048819	0.950781977329818
+520	SHH-B2	Glutathione Metabolism	1.2000746	1.05551732784983
+521	SHH-B2	Drug Metabolism - Other Enzymes	1.1975957	1.11350927482752
+523	SHH-B2	Pyrimidine Metabolism	1.16442	1.29242982390206
+524	SHH-B2	Purine Metabolism	1.1612256	1.63827216398241
+528	SHH-B2	Glyoxylate And Dicarboxylate Metabolism	1.0525876	0.364217878779837
+573	SHH-A2	Oxidative Phosphorylation	1.8605345	10
+574	SHH-A2	Drug Metabolism - Other Enzymes	1.3905263	2.30102999566398
+575	SHH-A2	Pyrimidine Metabolism	1.342433	2.69897000433602
+576	SHH-A2	Glutathione Metabolism	1.3392752	1.67778070526608
+577	SHH-A2	Purine Metabolism	1.3352735	10
+578	SHH-A2	Glyoxylate And Dicarboxylate Metabolism	1.2643256	1.01235880155887
+580	SHH-A2	Pyruvate Metabolism	1.238804	1.15490195998574
+584	SHH-A2	Drug Metabolism - Cytochrome P450	1.1123986	0.536732531917051
+629	SHH-C2	Oxidative Phosphorylation	1.7389582	10
+630	SHH-C2	Pyruvate Metabolism	1.3278291	1.79588001734408
+631	SHH-C2	Purine Metabolism	1.2618451	3
+632	SHH-C2	Pyrimidine Metabolism	1.244224	1.92081875395238
+633	SHH-C2	Glutathione Metabolism	1.2360543	1.18708664335714
+635	SHH-C2	Glyoxylate And Dicarboxylate Metabolism	1.1997403	0.805570582785494
+636	SHH-C2	Drug Metabolism - Other Enzymes	1.1899308	1.08618614761628
+641	SHH-C2	Drug Metabolism - Cytochrome P450	1.0931375	0.481934667890216
+685	GP3-B1	Oxidative Phosphorylation	1.442489	10
+686	GP3-B1	Pyruvate Metabolism	1.2070773	1.35654732351381
+687	GP3-B1	Pyrimidine Metabolism	1.2033165	2.30102999566398
+689	GP3-B1	Glutathione Metabolism	1.1618694	0.94692155651658
+690	GP3-B1	Drug Metabolism - Other Enzymes	1.1583434	1.04095860767891
+691	GP3-B1	Purine Metabolism	1.1575906	2.09691001300806
+692	GP3-B1	Drug Metabolism - Cytochrome P450	1.1203692	0.67322965228965
+697	GP3-B1	Glyoxylate And Dicarboxylate Metabolism	1.0445312	0.329319643002566
+744	GP3-A	Oxidative Phosphorylation	1.6132437	10
+745	GP3-A	Pyruvate Metabolism	1.2636763	1.46852108295774
+746	GP3-A	Pyrimidine Metabolism	1.2484518	2.30102999566398
+747	GP3-A	Drug Metabolism - Other Enzymes	1.2231761	1.2518119729938
+748	GP3-A	Purine Metabolism	1.2018573	2.30102999566398
+749	GP3-A	Glutathione Metabolism	1.1942967	1.02227639471115
+753	GP3-A	Drug Metabolism - Cytochrome P450	1.1054864	0.525349221672208
+755	GP3-A	Glyoxylate And Dicarboxylate Metabolism	1.1031337	0.486347869960306
+802	GP3-C1	Oxidative Phosphorylation	1.5292232	10
+803	GP3-C1	Pyruvate Metabolism	1.2454369	1.44369749923271
+804	GP3-C1	Drug Metabolism - Cytochrome P450	1.2306975	1.26760624017703
+805	GP3-C1	Pyrimidine Metabolism	1.1964071	1.82390874094432
+806	GP3-C1	Glutathione Metabolism	1.181639	1.16115090926274
+807	GP3-C1	Purine Metabolism	1.1788049	2.15490195998574
+808	GP3-C1	Drug Metabolism - Other Enzymes	1.1677041	1.1249387366083
+809	GP3-C1	Glyoxylate And Dicarboxylate Metabolism	1.1649537	0.766134419161647
+858	GP3-C2	Oxidative Phosphorylation	1.5339888	10
+860	GP3-C2	Pyruvate Metabolism	1.2184014	1.20760831050175
+862	GP3-C2	Pyrimidine Metabolism	1.1984562	1.95860731484178
+863	GP3-C2	Purine Metabolism	1.194965	3
+864	GP3-C2	Drug Metabolism - Cytochrome P450	1.194787	1.01322826573376
+865	GP3-C2	Glutathione Metabolism	1.1886032	1.08618614761628
+867	GP3-C2	Drug Metabolism - Other Enzymes	1.161497	1
+875	GP3-C2	Glyoxylate And Dicarboxylate Metabolism	1.0134557	0.286509456906058
+921	GP3-B2	Oxidative Phosphorylation	1.8281506	10
+922	GP3-B2	Drug Metabolism - Other Enzymes	1.293221	1.53760200210104
+923	GP3-B2	Glutathione Metabolism	1.2750608	1.3767507096021
+924	GP3-B2	Pyrimidine Metabolism	1.2662187	2.04575749056068
+925	GP3-B2	Purine Metabolism	1.261789	2.30102999566398
+926	GP3-B2	Drug Metabolism - Cytochrome P450	1.2256049	0.827561361242577
+927	GP3-B2	Pyruvate Metabolism	1.2189776	1.02227639471115
+931	GP3-B2	Glyoxylate And Dicarboxylate Metabolism	1.1265374	0.551101303979376
+970	WNT	Oxidative Phosphorylation	1.7466917	10
+971	WNT	Drug Metabolism - Other Enzymes	1.2813574	1.74472749489669
+973	WNT	Drug Metabolism - Cytochrome P450	1.2242931	0.995678626217357
+974	WNT	Glyoxylate And Dicarboxylate Metabolism	1.2155752	0.927683492384495
+975	WNT	Pyrimidine Metabolism	1.2105019	1.63827216398241
+976	WNT	Purine Metabolism	1.1789509	1.60205999132796
+978	WNT	Pyruvate Metabolism	1.1502166	0.732828271596986
+983	WNT	Glutathione Metabolism	1.0565182	0.437707135543525

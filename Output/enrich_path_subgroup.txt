@@ -1,0 +1,36 @@
+x	y	NES	PVAL
+1	GP4	Oxidative Phosphorylation	1.4709885	10
+2	GP4	Drug Metabolism - Cytochrome P450	1.2350055	1.53760200210104
+3	GP4	Glutathione Metabolism	1.18615	1.20065945054642
+4	GP4	Pyrimidine Metabolism	1.1816583	2
+6	GP4	Drug Metabolism - Other Enzymes	1.167438	1.35654732351381
+7	GP4	Pyruvate Metabolism	1.1604484	1.00877392430751
+9	GP4	Purine Metabolism	1.1357088	1.72124639904717
+62	SHH	Oxidative Phosphorylation	1.5408404	10
+64	SHH	Glutathione Metabolism	1.2699553	2.04575749056068
+65	SHH	Drug Metabolism - Other Enzymes	1.2452798	2.09691001300806
+66	SHH	Purine Metabolism	1.1897637	2.39794000867204
+67	SHH	Pyrimidine Metabolism	1.1797543	1.72124639904717
+70	SHH	Drug Metabolism - Cytochrome P450	1.1696583	0.928117992693875
+71	SHH	Pyruvate Metabolism	1.154857	0.847711655616944
+126	GP3	Oxidative Phosphorylation	1.4742321	10
+128	GP3	Pyruvate Metabolism	1.2130392	1.33724216831843
+129	GP3	Glutathione Metabolism	1.1926535	1.23657200643706
+130	GP3	Pyrimidine Metabolism	1.1736106	1.69897000433602
+131	GP3	Purine Metabolism	1.1700766	2.30102999566398
+132	GP3	Drug Metabolism - Cytochrome P450	1.1566157	0.931814138253838
+133	GP3	Drug Metabolism - Other Enzymes	1.1534718	1.0268721464003
+188	WNT	Oxidative Phosphorylation	1.7466917	10
+189	WNT	Drug Metabolism - Other Enzymes	1.2813574	1.74472749489669
+191	WNT	Drug Metabolism - Cytochrome P450	1.2242931	0.995678626217357
+193	WNT	Pyrimidine Metabolism	1.2105019	1.63827216398241
+194	WNT	Purine Metabolism	1.1789509	1.60205999132796
+196	WNT	Pyruvate Metabolism	1.1502166	0.732828271596986
+201	WNT	Glutathione Metabolism	1.0565182	0.437707135543525
+243	GP3-4	Oxidative Phosphorylation	1.5953939	10
+244	GP3-4	Pyrimidine Metabolism	1.2490854	2.69897000433602
+245	GP3-4	Drug Metabolism - Cytochrome P450	1.2460375	1.26760624017703
+246	GP3-4	Purine Metabolism	1.2158544	3
+248	GP3-4	Glutathione Metabolism	1.2001815	1.07572071393812
+249	GP3-4	Pyruvate Metabolism	1.1844798	0.928117992693875
+250	GP3-4	Drug Metabolism - Other Enzymes	1.1669056	0.98296666070122
